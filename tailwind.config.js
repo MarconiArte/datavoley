@@ -1,12 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+    mode: 'jit',
     content: [
-        "./resources/**/*.blade.php",
-        "./resources/**/*.js",
+      "resources/**/*.blade.php",
+      "resources/**/*.js",
+
     ],
     theme: {
-        extend: {},
+      extend: {},
     },
     plugins: [],
-}
-
+  }

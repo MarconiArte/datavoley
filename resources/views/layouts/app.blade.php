@@ -9,7 +9,7 @@
         @vite('resources/css/app.css')
     </head>
     <body class="bg-gray-100">
-        <header class="p-5 border-b bg-white shadow">
+        <header class="p-5 border-b bg-white">
             <div class="conteiner mx-auto flex justify-between items-center">
                 <h1 class="text-3xl font-black">DataVoley</h1>
             </div>
